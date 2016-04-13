@@ -95,7 +95,7 @@ textarea {
 	display: block;
 	float: left;
 	margin: 0;
-	padding-left: 36px;
+	padding-left: 37px;
 	position: relative;
 }
 .ba-menu__link {
@@ -104,7 +104,7 @@ textarea {
 	text-decoration: none;
 	font-size: 16px;
 	font-weight: 700;
-	/* line-height: 25px; */
+	line-height: 25px;
 }
 .ba-menu__link:after {
 	display: block;
@@ -196,8 +196,8 @@ background: radial-gradient(circle farthest-side at 50%, rgba(0, 196, 196, 0.9) 
 .ba-section-about__text {
 
 	max-width: 50%;
-	padding-left: 75px;
-	padding-top: 125px;
+	padding-left: 80px;
+	padding-top: 130px;
 
 }
 .ba-section-about__title {
